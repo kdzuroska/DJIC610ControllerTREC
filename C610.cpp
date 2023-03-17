@@ -1,6 +1,4 @@
 #include "C610.h"
-#hi
-
 #include <FlexCAN_T4.h>
 
 namespace C610Helper {
